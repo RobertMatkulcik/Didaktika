@@ -19,10 +19,7 @@ print 'I "said" do not touch this.'
 ```
 
 ## Metodické listy
-myšlienková mapa pojmov učiva (jednoodbor aj prezentáciu)
-návrh projektu k téme metodiky
-interaktívny didaktický test k téme učiva - 5 otázok (jednoodbor 10 otázok)
-pracovný list k ľub. hodine -  1 ks (jednoodbor 2 ks)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
