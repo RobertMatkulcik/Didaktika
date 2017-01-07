@@ -28,13 +28,6 @@ print 'I "said" do not touch this.'
 
 [Tématický plán](files/Matkulcik-tematický-plán.pdf).
 
-### Myšlienková mapa pojmov
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-### Návrh projektu k metodike
-[Návrh projektu](files/projekt_didaktika_Matkulcik.pdf).
-
 ### Testy
 * [Test č.1](files/Matkulcik_Test.pdf).
 * [Test č.2](files/Matkulcik_Test_02.pdf).
@@ -42,5 +35,14 @@ print 'I "said" do not touch this.'
 ### Pracovné listy
 * [Pracovný list Č.1](files/Matkulcik_pracovny_list.pdf).
 * [Pracovný list Č.2](files/Matkulcik_pracovny_list_2.pdf).
+
+### Návrh projektu k metodike
+[Návrh projektu](files/projekt_didaktika_Matkulcik.pdf).
+
+### Myšlienková mapa pojmov
+
+![Myšlienková mapa](files/Matkulcik.map.svg)
+
+
 
 
