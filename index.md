@@ -3,11 +3,11 @@
 Slúži ako uložisko pre prílohy potrebné pre splnenie skúšky z tohto predmetu.
 
 
-### Programovanie v jazyku Python
+## Programovanie v jazyku Python
 
 Ako voliteľnú tému som si vybral, programovací jazyk Python. Pomocou ktorého chcem vyučovať žiakov 4 ročníka na stredných odorných školách objektové programovanie.
 
-```markdown
+```python
 print "Hello World!"
 print "Hello Again"
 print "I like typing this."
@@ -18,19 +18,29 @@ print 'I "said" do not touch this.'
 
 ```
 
-## Metodické listy
+### Metodické listy
 
+* [Metodický list Č.1](files/metodicky_list_python_01.pdf).
+* [Metodický list Č.2](files/metodicky_list_python_02.pdf).
+* [Metodický list Č.3](files/metodicky_list_python_03.pdf).
 
-For more details see [GitHub Flavored Markdown](files/Matkulcik-tematický-plán.pdf).
+### Tématický plán
 
-## Myšlienková mapa pojmov
+[Tématický plán](files/Matkulcik-tematický-plán.pdf).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobqFakulcik/tst/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Myšlienková mapa pojmov
 
-## Návrh projektu k metodike
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Testy
+### Návrh projektu k metodike
+[Návrh projektu](files/projekt_didaktika_Matkulcik.pdf).
 
-## Pracovné listy
+### Testy
+[Test č.1](files/Matkulcik_Test.pdf).
+[Test č.2](files/Matkulcik_Test_02.pdf).
+
+### Pracovné listy
+[Pracovný list Č.1](files/Matkulcik_pracovny_list.pdf).
+[Pracovný list Č.2](files/Matkulcik_pracovny_list_2.pdf).
 
 
