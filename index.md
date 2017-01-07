@@ -29,8 +29,8 @@ print 'I "said" do not touch this.'
 [Tématický plán](files/Matkulcik-tematický-plán.pdf).
 
 ### Testy
-* [Test č.1](files/Matkulcik_Test.pdf).
-* [Test č.2](files/Matkulcik_Test_02.pdf).
+* [Test Č.1](files/Matkulcik_Test.pdf).
+* [Test Č.2](files/Matkulcik_Test_02.pdf).
 
 ### Pracovné listy
 * [Pracovný list Č.1](files/Matkulcik_pracovny_list.pdf).
@@ -43,6 +43,8 @@ print 'I "said" do not touch this.'
 
 ![Myšlienková mapa](files/Matkulcik.map.svg)
 
+### Recenzia
 
+[Recenzia](files/Matkullcik_recenzia.pdf)
 
 
