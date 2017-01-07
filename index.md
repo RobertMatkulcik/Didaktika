@@ -36,11 +36,11 @@ print 'I "said" do not touch this.'
 [Návrh projektu](files/projekt_didaktika_Matkulcik.pdf).
 
 ### Testy
-[Test č.1](files/Matkulcik_Test.pdf).
-[Test č.2](files/Matkulcik_Test_02.pdf).
+* [Test č.1](files/Matkulcik_Test.pdf).
+* [Test č.2](files/Matkulcik_Test_02.pdf).
 
 ### Pracovné listy
-[Pracovný list Č.1](files/Matkulcik_pracovny_list.pdf).
-[Pracovný list Č.2](files/Matkulcik_pracovny_list_2.pdf).
+* [Pracovný list Č.1](files/Matkulcik_pracovny_list.pdf).
+* [Pracovný list Č.2](files/Matkulcik_pracovny_list_2.pdf).
 
 
