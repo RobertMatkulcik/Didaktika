@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Stránka je venovaná predmetu Didaktika informatiky 3
 
-You can use the [editor on GitHub](https://github.com/RobqFakulcik/tst/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Slúži ako uložisko pre prílohy potrebné pre splnenie skúšky z tohoto predmetu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Programovanie v jazyku Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ako voliteľnú tému som si vybral, programovací jazyk Python. Pomocov ktorého chcem vyučovať žiakov 4 ročníka na stredných odorných školách objektové programovanie.
 
 ```markdown
 Syntax highlighted code block
