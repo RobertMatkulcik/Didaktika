@@ -21,7 +21,7 @@ print 'I "said" do not touch this.'
 ## Metodické listy
 
 
-For more details see [GitHub Flavored Markdown](/files/Matkulcik-tematický-plán.pdf).
+For more details see [GitHub Flavored Markdown](Didaktika/files/Matkulcik-tematický-plán.pdf).
 
 ## Myšlienková mapa pojmov
 
