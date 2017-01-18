@@ -47,4 +47,20 @@ print 'I "said" do not touch this.'
 
 [Recenzia](files/Matkullcik_recenzia.pdf)
 
+### Užitočné odkazy
 
+[Syntax programovacích jazykov](https://syntaxdb.com/)
+
+[Python cheatsheet](https://www.pythonsheets.com/)
+
+[Python online solutions](http://code.runnable.com/?filter=Python&page=3&orderBy=popular)
+
+[kNIHA: ponorme sa do pythonu](http://knihy.nic.cz/files/edice/python_3.pdf)
+
+[Learn Python](http://learnpython.org/)
+
+[Python tips & traps](https://www.airpair.com/python/posts/python-tips-and-traps)
+
+[prvni jazyk python](http://macek.sandbox.cz/texty/prvni-jazyk-python/)
+
+[Hosting pre Pytho aplikácie](https://rosti.cz/)
