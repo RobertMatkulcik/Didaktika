@@ -55,7 +55,7 @@ print 'I "said" do not touch this.'
 
 [Python online solutions](http://code.runnable.com/?filter=Python&page=3&orderBy=popular)
 
-[kNIHA: ponorme sa do pythonu](http://knihy.nic.cz/files/edice/python_3.pdf)
+[KNIHA: ponorme sa do pythonu](http://knihy.nic.cz/files/edice/python_3.pdf)
 
 [Learn Python](http://learnpython.org/)
 
@@ -63,4 +63,4 @@ print 'I "said" do not touch this.'
 
 [prvni jazyk python](http://macek.sandbox.cz/texty/prvni-jazyk-python/)
 
-[Hosting pre Pytho aplikácie](https://rosti.cz/)
+[Hosting pre Python aplikácie](https://rosti.cz/)
